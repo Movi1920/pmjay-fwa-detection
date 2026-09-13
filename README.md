@@ -166,7 +166,7 @@ Demonstrated Snowflake Time Travel (`DATA_RETENTION_TIME_IN_DAYS = 1`) for point
 **Vikas Tarikere**
 Healthcare Data Analyst | 9+ Years in Healthcare Domain
 
-📍 Bengaluru, India
+📍 Bengaluru, India 
 🔗 [Linkedin.com/in/vikas-vijaykumar]
 
 ---
