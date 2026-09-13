@@ -167,7 +167,7 @@ Demonstrated Snowflake Time Travel (`DATA_RETENTION_TIME_IN_DAYS = 1`) for point
 Healthcare Data Analyst | 9+ Years in Healthcare Domain
 
 📍 Bengaluru, India
-🔗 [LinkedIn](https://www.linkedin.com/in/) ← *(add your profile URL)*
+🔗 [Linkedin.com/in/vikas-vijaykumar]
 
 ---
 
